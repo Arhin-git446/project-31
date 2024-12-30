@@ -1,0 +1,64 @@
+/* General Styles */  
+body {  
+    font-family: Arial, sans-serif;  
+    margin: 0;  
+    padding: 0;  
+}  
+
+/* Header Styles */  
+header {  
+    text-align: center;  
+}  
+
+/* Banner Styles */  
+.banner {  
+    width: 100%;  
+    overflow: hidden;  
+}  
+
+.banner-image {  
+    width: 100%;  
+    height: auto;  
+}  
+
+/* Navigation Styles */  
+.navbar {  
+    list-style-type: none;  
+    padding: 0;  
+    margin: 0;  
+    background-color: #333;  
+}  
+
+.navbar li {  
+    display: inline;  
+    margin-right: 20px;  
+}  
+
+.navbar a {  
+    color: white;  
+    text-decoration: none;  
+    padding: 14px 20px;  
+    display: inline-block;  
+}  
+
+.navbar a:hover {  
+    background-color: #575757;  
+}  
+
+/* Main Section Styles */  
+main {  
+    padding: 20px;  
+    background-color: #f4f4f4;  
+}  
+
+section {  
+    margin: 20px 0;  
+}  
+
+/* Footer Styles */  
+footer {  
+    text-align: center;  
+    padding: 10px 0;  
+    background-color: #333;  
+    color: white;  
+}
